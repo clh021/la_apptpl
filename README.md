@@ -1,1 +1,1 @@
-# la_apptpl
+la系统专用 app 快速创建模板，基于Yii2
